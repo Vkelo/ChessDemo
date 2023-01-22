@@ -1,0 +1,2 @@
+# ChessDemo
+JetBrains academy practise
